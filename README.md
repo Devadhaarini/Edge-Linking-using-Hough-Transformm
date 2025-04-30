@@ -56,7 +56,7 @@ plt.axis('off')
 
 ## Output:
 ### Input Image
-![image](https://github.com/user-attachments/assets/e8174d78-49ec-44fc-a9a2-b766a6982a76)
+![image](https://github.com/user-attachments/assets/cc9e1dec-8ac7-4e69-8479-3b224f4be76c)
 
 ### Grayscale image
 ![image](https://github.com/user-attachments/assets/43c82fd6-8ffa-49ad-ae1f-71051a70fe7c)
